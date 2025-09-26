@@ -1,0 +1,9 @@
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\bin\Debug\negocio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\bin\Debug\negocio.pdb
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\bin\Debug\dominio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\bin\Debug\dominio.pdb
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\obj\Debug\negocio.dll
+C:\Users\lviera\OneDrive - Biogenesis Bago S.A\Escritorio\C# Nivel2\Ejemplo Pokemon\ejemplos-ado-net-53ee253f8a94168ab088c6adfac358da708cb2ca\negocio\obj\Debug\negocio.pdb
